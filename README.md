@@ -30,9 +30,11 @@ Für das Festlegen der Klassifikationssysteme ist wichtig: | Beispiel: Raumnutzu
 --------------------------------------------------------- | ----------------------------------------
 das Klassifikationselement | Räume
 der Klassifikationsaspekt | Nutzungsart
-die Klasse | Büro
+die Klasse | Büroräume
 
 
+
+### Notiz
 
 You can use the [editor on GitHub](https://github.com/BIMeta-Steuerkreis/Anwenderhilfe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
