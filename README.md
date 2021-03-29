@@ -1,5 +1,12 @@
 ## Willkommen auf der BIMeta Online Dokumentation
 
+###Terminologie
+
+**Publisher** - Herausgeber
+Ein Herausgeber ist eine Organisation, welche Digitale Standards mit dem Schwerpunkt der BIM-Methodik für ihr Klientel bzw. ihre Mitglieder veröffentlichen möchte. Er kann die Inhalte selbstständig, frei und im eigenen Namen veröffentlichen. Er ist nicht gezwungen diese Standards mit anderen Herausgebern abzustimmen.
+
+
+
 You can use the [editor on GitHub](https://github.com/BIMeta-Steuerkreis/Anwenderhilfe/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
