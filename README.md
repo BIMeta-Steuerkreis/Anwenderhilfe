@@ -2,6 +2,8 @@
 
 ### Terminologie
 
+![Strukturen zur Verwaltung von Metadaten](https://user-images.githubusercontent.com/77831068/112808228-0f799180-9079-11eb-95b3-c16d0447e03b.png)
+
 
 **Publisher** - Herausgeber
 
@@ -19,7 +21,16 @@ Die Domäne gruppiert bzw. selektiert verschiedene thematische Aspekte, welche v
 
 Eine Domäne kann n Klassifikationssysteme haben und ein Klassifikationssystem kann n Klassen haben und eine Klasse kann n Merkmale haben.
 
+**ClassificationSystem** - Klassifikationssystem 
 
+Ein Klassifikationssystem sammelt Klassen, welche eine gleichartige Ausrichtung haben, basierend auf dem Verfahren nach VDI 2552-9. Es klassifiziert bzw. gruppiert Dinge nach einem bestimmten vorher festzulegenden Aspekt.
+Typischerweise besteht ein Klassifikationssystem aus einer Liste von Klassen und mit Klassen verbundenen Merkmalen.
+
+Für das Festlegen der Klassifikationssysteme ist wichtig: | Beispiel:
+--------------------------------------------------------- | ---------
+ 1. der Klassifikationselement | 
+ 2. der Klassifikationsaspekt |
+ 3. die Klasse |
 
 
 
