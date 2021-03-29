@@ -3,6 +3,7 @@
 ### Terminologie
 
 **Publisher** - Herausgeber
+
 Ein Herausgeber ist eine Organisation, welche Digitale Standards mit dem Schwerpunkt der BIM-Methodik für ihr Klientel bzw. ihre Mitglieder veröffentlichen möchte. Er kann die Inhalte selbstständig, frei und im eigenen Namen veröffentlichen. Er ist nicht gezwungen diese Standards mit anderen Herausgebern abzustimmen.
 
 
