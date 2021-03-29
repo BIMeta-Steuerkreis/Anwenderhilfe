@@ -28,7 +28,7 @@ Typischerweise besteht ein Klassifikationssystem aus einer Liste von Klassen und
 
 Für das Festlegen der Klassifikationssysteme ist wichtig: | Beispiel: Raumnutzungsarten nach DIN 277 
 --------------------------------------------------------- | ----------------------------------------
-der Klassifikationselement | Räume
+das Klassifikationselement | Räume
 der Klassifikationsaspekt | Nutzungsart
 die Klasse | Büro
 
