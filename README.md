@@ -12,6 +12,7 @@ Der Content (z.B. mehrere Domänen und Klassifikationssysteme), der von einem He
 
 
 **Domain** - Domäne
+
 Eine Domäne ist ein fachlich in sich abgeschlossener Bereich (ein Bereich für eine bestimmte Fachlichkeit), in dem der Herausgeber mehrere Klassifikationssysteme veröffentlichen kann, welche viele Klassen und Merkmale besitzt. 
 Die Domäne gruppiert bzw. selektiert verschiedene thematische Aspekte, welche vom Herausgeber bestimmt werden.
 
