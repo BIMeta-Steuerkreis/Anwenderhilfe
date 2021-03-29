@@ -1,6 +1,6 @@
 ## Willkommen auf der BIMeta Online Dokumentation
 
-### Terminologie
+## Terminologie
 
 
 **Publisher** - Herausgeber
