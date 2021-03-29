@@ -2,15 +2,15 @@
 
 ### Terminologie
 
-```markdown
+
 **Publisher** - Herausgeber
 
 Ein Herausgeber ist eine Organisation, welche Digitale Standards mit dem Schwerpunkt der BIM-Methodik für ihr Klientel bzw. ihre Mitglieder veröffentlichen möchte. Er kann die Inhalte selbstständig, frei und im eigenen Namen veröffentlichen. Er ist nicht gezwungen diese Standards mit anderen Herausgebern abzustimmen. Er kann die Inhalte zu anderen Herausgebern mappen.
 Die Standards werden in Domänen strukturiert.
 Der Content (z.B. mehrere Domänen und Klassifikationssysteme), der von einem Herausgebers erzeugt und veröffentlicht wird, muss innerhalb des Herausgebers eineindeutig und widerspruchsfrei sein.
-```
 
-```markdown
+
+
 **Domain** - Domäne
 Eine Domäne ist ein fachlich in sich abgeschlossener Bereich (ein Bereich für eine bestimmte Fachlichkeit), in dem der Herausgeber mehrere Klassifikationssysteme veröffentlichen kann, welche viele Klassen und Merkmale besitzt. 
 Die Domäne gruppiert bzw. selektiert verschiedene thematische Aspekte, welche vom Herausgeber bestimmt werden.
@@ -18,7 +18,7 @@ Die Domäne gruppiert bzw. selektiert verschiedene thematische Aspekte, welche v
 
 Eine Domäne kann n Klassifikationssysteme haben und ein Klassifikationssystem kann n Klassen haben und eine Klasse kann n Merkmale haben.
 
-```
+
 
 
 
