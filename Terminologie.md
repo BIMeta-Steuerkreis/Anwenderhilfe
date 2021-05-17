@@ -1,7 +1,7 @@
 # Terminologie
 
 
-![Strukturen zur Verwaltung von Metadaten](https://user-images.githubusercontent.com/77831068/112808228-0f799180-9079-11eb-95b3-c16d0447e03b.png)
+![Strukturen zur Verwaltung von Metadaten](https://user-images.githubusercontent.com/77831068/118447853-8afad500-b6f1-11eb-875c-bbe8e09d8058.png)
 
 
 ## Publisher - Herausgeber
@@ -20,10 +20,41 @@ Eine Domäne kann n Klassifikationssysteme haben und ein Klassifikationssystem k
 ## ClassificationSystem - Klassifikationssystem 
 
 Ein Klassifikationssystem sammelt Klassen, welche eine gleichartige Ausrichtung haben, basierend auf dem Verfahren nach VDI 2552-9. Es klassifiziert bzw. gruppiert Dinge nach einem bestimmten vorher festzulegenden Aspekt.
-Typischerweise besteht ein Klassifikationssystem aus einer Liste von Klassen und mit Klassen verbundenen Merkmalen.
+Typischerweise besteht ein Klassifikationssystem aus einer Liste von Klassen und mit diesen verbundenen Merkmalen.
 
 Für das Festlegen der Klassifikationssysteme ist wichtig: | Beispiel: Raumnutzungsarten nach DIN 277 
 --------------------------------------------------------- | ----------------------------------------
 das Klassifikationselement | Räume
 der Klassifikationsaspekt | Nutzungsart
 die Klasse | Büroräume
+
+Ein Klassifikationssystem kann auch nur aus einer Liste von Merkmalen bestehen.
+In jedem Klassifikationssystem werden die deutschen als auch die englischen Übersetzungen eingepflegt, wobei die Herausgebersprache im Feld ClassificationArea hinterlegt wird. 
+Jedes Klassifikationssystem besitzt Klassen und gehört einem Klassifikationssystemtypen an.
+
+## ClassificationSystemType - Klassifikationssystemtyp
+
+Ein Klassifikationssystemtyp gibt vor, welchen Klassifikationsaspekt dieses Klassifikationssystem bedingt und welche Elemente in dem BIM-Modell damit klassifiziert werden können. Es klassifiziert Klassifikationssysteme.
+
+In einem Projekt können nicht 2 verschiedene Klassifikationssystemtypen verwendet werden. Der Anwender ist verpflichtet, in einem Projekt nur ein Klassifikationssystemtyp zu verwenden.
+
+Klassifikationssystemtypen in BIMeta: |	Beispiele:
+------------------------------------- | ----------
+Kostengruppen (CostTypes)	| DIN276
+Anwendungsfälle (UseCaseTypes)	
+Bauteiltypen (ObjectTypes) | ISO 16757, uniclass, IFC, VDI 3805
+Materialtypen (MaterialTypes)	
+Flächentypen (BuildingTypes) | GEFMA 924-10
+Raumnutzungsarten (SpaceTypes) | DIN 277, ISO 81346
+Dokumententypen (DocumentTypes)	
+Lebenszyklusphasen (LifeCyclePhases)	
+[Produkttypen (ProductType) ???]
+
+Klassifikationssysteme dürfen nur aufeinander gemappt werden, wenn diese demselben Klassifikationssystemtypen angehören.
+
+## Class - Klasse
+
+Klassen sind eine offene Sammelkategorie, die unterschiedliche Elemente zusammenfasst, die sich hinsichtlich des Klassifikationsaspektes gleichen (VDI 2552-9).
+Sie sind Bestandteile von Klassifikationssystemen und standardisiert gemäß ISO 12006-2 und VDI 2552-9. Diese Dokumente bilden die Grundlagen bei dem Strukturieren der Klassen.
+Klasse haben Properties (Merkmale).
+
