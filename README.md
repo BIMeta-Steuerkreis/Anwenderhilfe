@@ -3,7 +3,7 @@
 
 [Terminologie](Terminologie.md)
 
-[Sturktur](Struktur.md)
+[Struktur](Struktur.md)
 
 [Konzepte](Konzepte.md)
 
