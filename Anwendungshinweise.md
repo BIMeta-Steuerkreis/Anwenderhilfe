@@ -1,33 +1,30 @@
 ## Anwendungs-/ Benutzungshinweise
 
 [//]:<Wie melde ich mich an?>
-<details><summary><h3>Wie melde ich mich an?</h2></summary>
-<br>
+<details><summary>Wie melde ich mich an?</summary>
 
-</details>
+<br></details>
 
 [//]:<Wie setze ich mein Kennwort zurück?>
-<details><summary><h3>Wie setze ich mein Kennwort zurück?</h2></summary>
-<br>
+<details><summary>Wie setze ich mein Kennwort zurück?</summary>
 
-</details>
+<br></details>
 
 [//]:<Wie bekomme ich einen Account?>
-<details><summary><h3>Wie bekomme ich einen Account?</h2></summary>
-<br>
+<details><summary>Wie bekomme ich einen Account?</summary>
 
-
-</details>
+<br></details>
 
 [//]:<Wie erfasse ich ein Merkmal?>
-<details><summary><h3>Wie erfasse ich ein Merkmal?</h2></summary>
+<details><summary>Wie erfasse ich ein Merkmal?</summary>
 <br>
+  
+  [Beispiel Erfassen eines Merkmals](https://www.iorad.com/player/1815762/Erfassen-eines-Merkmals)
 
-
-</details>
+<br></details>
 
 [//]:<Wie erfasse ich eine Klasse?>
-<details><summary><h3>Wie erfasse ich eine Klasse?</h2></summary>
+<details><summary>Wie erfasse ich eine Klasse?</summary>
   
   1. Herausgeber, Domäne und Klassifikationssystem wählen
   2. Mittels des Zeichens "Plus" (Über den vorhandenen Klassen) eine neue Klasse hinzufügen
@@ -74,4 +71,4 @@
   6. Nun können Merkmale hinzugefügt werden oder Subklassen erstellt werden.
      - Merkmale hinzufügen [Link zu diesen Hinweis]
      - Subklassen erstellen [Link zu diesem Hinweis]
-</details>
+<br></details>
