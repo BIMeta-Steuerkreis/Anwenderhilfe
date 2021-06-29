@@ -1,4 +1,4 @@
-## Anwendungs-/ Benutzungshinweise
+# Anwendungs-/ Benutzungshinweise
 
 * TOC
 {:toc}
@@ -6,8 +6,8 @@
 ## Wie melde ich mich an?
   
 [Wie melde ich mich an?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an)
-  
-<br>
+
+</p>                      <p style='font-size: 15px; line-height: 136%; margin-top: 59px; margin-bottom: 51px;'>        1. Klicken Sie auf <b style="font-weight:normal;color:#FF00D6">Anmelden</b>.      </p>      <p style="text-align: center;">        <img  src="https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1822718&step_number=1&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5" style="max-width: 100%;max-height: 100%;border: none;" alt="Step 1 image" />      </p>          <p style='font-size: 15px; line-height: 136%; margin-top: 59px; margin-bottom: 51px;'>        2. Geben Sie Ihre <b style="font-weight:normal;color:#FF00D6">E-Mail-Adresse</b> sowie Ihr <b style="font-weight:normal;color:#FF00D6">Passwort</b> ein.      </p>      <p style="text-align: center;">        <img  src="https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1822718&step_number=2&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5" style="max-width: 100%;max-height: 100%;border: none;" alt="Step 2 image" />      </p>          <p style='font-size: 15px; line-height: 136%; margin-top: 59px; margin-bottom: 51px;'>        3. Bestätigen Sie mit <b style="font-weight:normal;color:#FF00D6">LOG IN</b>.      </p>      <p style="text-align: center;">        <img  src="https://www.iorad.com/api/tutorial/stepScreenshot?tutorial_id=1822718&step_number=3&width=800&height=600&mobile_width=450&mobile_height=400&apply_resize=true&min_zoom=0.5" style="max-width: 100%;max-height: 100%;border: none;" alt="Step 3 image" />      </p>             </div>    </div>        
 
 
 ## Wie setze ich mein Kennwort zurück?
@@ -25,6 +25,7 @@
 <br>
   
 [Beispiel Erfassen eines Merkmals](https://www.iorad.com/player/1815762/Erfassen-eines-Merkmals)
+
 
 <br>
 
