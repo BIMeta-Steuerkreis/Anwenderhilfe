@@ -5,6 +5,8 @@
   
   [Wie melde ich mich an?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an)
   
+  [Wie melde ich mich an?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an){target="_blank"}
+  
 <br></details>
 
 [//]:<Wie setze ich mein Kennwort zurück?>
