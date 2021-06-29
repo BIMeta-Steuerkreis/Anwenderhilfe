@@ -3,7 +3,7 @@
 [//]:<Wie melde ich mich an?>
 <details><summary>Wie melde ich mich an?</summary>
   
-  [Wie melde ich mich an?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an){:target="_blank"}
+  [Wie melde ich mich an?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an)
   
 <br></details>
 
