@@ -38,6 +38,11 @@ Ein Klassifikationssystemtyp gibt vor, welchen Klassifikationsaspekt dieses Klas
 
 In einem Projekt können nicht 2 verschiedene Klassifikationssystemtypen verwendet werden. Der Anwender ist verpflichtet, in einem Projekt nur ein Klassifikationssystemtyp zu verwenden.
 
+Klassifikationssystemtypen in BIMeta: | Beispiele:
+------------------------------------- | ----------
+Kostengruppen (CostTypes) | DIN276
+
+
 Klassifikationssystemtypen in BIMeta: |	Beispiele:
 ------------------------------------- | ----------
 Kostengruppen (CostTypes)	| DIN276
