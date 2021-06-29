@@ -41,14 +41,14 @@ In einem Projekt können nicht 2 verschiedene Klassifikationssystemtypen verwend
 Klassifikationssystemtypen in BIMeta: | Beispiele:
 ------------------------------------- | ----------
 Kostengruppen (CostTypes) | DIN276
-Anwendungsfälle (UseCaseTypes)
+Anwendungsfälle (UseCaseTypes) | 
 Bauteiltypen (ObjectTypes) | ISO 16757, uniclass, IFC, VDI 3805
-Materialtypen (MaterialTypes)
+Materialtypen (MaterialTypes) |
 Flächentypen (BuildingTypes) | GEFMA 924-10
 Raumnutzungsarten (SpaceTypes) | Din 277, ISO 81346
-Dokumententypen (DocumentTypes)
-Lebenszyklusphasen (LifeCyclePhases)
-Produkttypen (ProductType) ???
+Dokumententypen (DocumentTypes) | 
+Lebenszyklusphasen (LifeCyclePhases) | 
+Produkttypen (ProductType) ??? | 
 
 Klassifikationssysteme dürfen nur aufeinander gemappt werden, wenn diese demselben Klassifikationssystemtypen angehören.
 
