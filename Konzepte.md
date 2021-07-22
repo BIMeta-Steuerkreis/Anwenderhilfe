@@ -14,4 +14,4 @@ Wie werden Klassifikationssysteme versioniert?
 Wie ist das Konzept für das Verbinden/ Mappen von Klassifikationssystemen?
 
 ### Multilingual
-Welche Sturkturen sind für die multilinguale Nutzung vorhanden?
+Welche Strukturen sind für die multilinguale Nutzung vorhanden?
