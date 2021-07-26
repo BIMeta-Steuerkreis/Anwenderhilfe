@@ -3,16 +3,22 @@
 * TOC
 {:toc}
 
-## Wie melde ich mich an?
+## Wie logge ich mich ein?
   
-[Wie melde ich mich an?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an)
-
-
+[Wie logge ich mich ein?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an)
 
 1. Öffnen Sie [https://server.bimeta.de](https://server.bimeta.de/).
 2. Gehen Sie auf Anmelden.
 4. Geben Sie im Reiter **Log in** Ihre E-Mail-Adresse und Ihr Passwort ein.
 5. Bestätigen Sie mit **LOG IN**
+
+<br>
+Mit Google einloggen:
+
+
+<br>
+Mit Microsoft Account einloggen:
+
 
 <br>
 
@@ -44,6 +50,13 @@
    - Ihren Nachnamen
    - Ihre Firma
 5. Bestätigen Sie Ihre Eingabe mit **SIGN UP**
+
+<br>
+Mit Google anmelden:
+
+
+<br>
+Mit Microsoft Account anmelden:
 
 
 <br>
