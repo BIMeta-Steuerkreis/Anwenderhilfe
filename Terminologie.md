@@ -5,9 +5,6 @@
 
 <br>
 
-![Strukturen zur Verwaltung von Metadaten](https://user-images.githubusercontent.com/77831068/118447853-8afad500-b6f1-11eb-875c-bbe8e09d8058.png)
-
-
 ## Publisher - Herausgeber
 
 Ein Herausgeber ist eine Organisation, welche Digitale Standards mit dem Schwerpunkt der BIM-Methodik für ihr Klientel bzw. ihre Mitglieder veröffentlichen möchte. Er kann die Inhalte selbstständig, frei und im eigenen Namen veröffentlichen. Er ist nicht gezwungen diese Standards mit anderen Herausgebern abzustimmen. Er kann die Inhalte zu anderen Herausgebern mappen.
