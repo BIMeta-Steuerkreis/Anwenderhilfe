@@ -60,7 +60,7 @@ Sie sind Bestandteile von Klassifikationssystemen und standardisiert gemäß ISO
 Klasse haben Properties (Merkmale).
 
 ## Properties - Merkmale
-In BIMeta werden in der Merkmalstabelle nicht die Daten, sondern die Metadaten ([Unterschied zwischen Daten und Metadaten](./WeitereErlauterungen.md##UnterschiedvonDatenundMetadaten)) verwaltet. Diese Tabelle ist nach der DIN EN ISO 23386 strukturiert und ermöglicht dadurch den Austausch und die Kommunikation mit anderen Systemen.
+In BIMeta werden in der Merkmalstabelle nicht die Daten, sondern die Metadaten ([Unterschied zwischen Daten und Metadaten](./WeitereErlauterungen.md#UnterschiedvonDatenundMetadaten)) verwaltet. Diese Tabelle ist nach der DIN EN ISO 23386 strukturiert und ermöglicht dadurch den Austausch und die Kommunikation mit anderen Systemen.
 In der Merkmalstabelle werden die Merkmale der Merkmale verwaltet, die in den jeweiligen Klassifikationssystemen benutzt werden sollen. 
 Merkmale werden versioniert. Die Versionen der Merkmale werden nach dem Prinzip der Semantischen Versionierung nummeriert.
 
