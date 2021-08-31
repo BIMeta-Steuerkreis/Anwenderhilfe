@@ -26,7 +26,7 @@ Mit Microsoft Account einloggen:
 
 1. Öffnen Sie [https://server.bimeta.de](https://server.bimeta.de/).
 2. Gehen Sie auf Anmelden.
-3. Klicken Sie auf **Don't remember your passwort?**
+3. Klicken Sie auf **Don't remember your password?**
 4. Geben Sie Ihre E-Mail-Adresse ein und bestätigen Sie mit **SEND EMAIL**
 5. Sie erhalten eine E-Mail mit den weiteren Schritten.
 
@@ -36,7 +36,7 @@ Mit Microsoft Account einloggen:
 
 1. Öffnen Sie [https://server.bimeta.de](https://server.bimeta.de/).
 2. Gehen Sie auf Anmelden.
-3. Welcheln Sie in den Reiter **Sign up**.
+3. Welchseln Sie in den Reiter **Sign up**.
 4. Geben Sie folgende Daten ein:
    - Ihre E-Mail-Adresse
    - Ihr gewünschtes Passwort, welches folgende Bedingungen erfüllen muss:
@@ -76,13 +76,13 @@ Mit Microsoft Account anmelden:
 2. Mittels des Zeichens "Plus" (Über den vorhandenen Klassen) eine neue Klasse hinzufügen
 3. Felder ausfüllen:
       - Info
-        - Indentifikator der Klasse
+        - Identifikator der Klasse
       - DE
           - Klassenname DE
           - Definition der Klasse DE
           - Bemerkung DE, Beispiele DE
           - Synonyme DE
-      - EN --> Dadurch wird gleiche ine Übersetzung in der Klasse automatisch mit hinterlegt und es muss keine neue Klasse eingefügt werden.
+      - EN --> Dadurch wird eine Übersetzung in der Klasse automatisch mit hinterlegt und es muss keine neue Klasse eingefügt werden.
           - Klassennamen EN
           - Definition der Klasse EN
           - Bemerkung EN, Beispiele EN
