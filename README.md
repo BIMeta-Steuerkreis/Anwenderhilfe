@@ -10,4 +10,4 @@
 
 [Anwendungshinweise](Anwendungshinweise.md)
 
-[Weiterführende Erläuterungen][WeitereErlauterungen.md]
+[Weiterführende Erläuterungen](WeitereErlauterungen.md)
