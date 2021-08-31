@@ -1,4 +1,6 @@
 # Weiterführende Erklärungen
+* TOC
+{:toc}
 
 ## Unterschied von Daten und Metadaten
 Bei dem Begriff Daten denken die meisten an die Anwendungsdaten. Bei Metadaten wird durch die Vorsilbe Meta klar, dass es sich um etwas handelt, was diesen Anwendungsdaten übergeordnet ist. Metadaten bezeichnet Daten, welche die Struktur der Anwendnungsdaten beschreibt.
