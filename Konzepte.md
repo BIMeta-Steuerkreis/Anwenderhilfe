@@ -1,4 +1,6 @@
 ## Konzepte von BIMeta
+* TOC
+{:toc}
 
 ### Grundaufbau Herausgeber, Domäne und Klassifikationssystem (Benutzerverwaltung)
 Diese Aufteilung wurde gewählt, da auf Herausgeber, Domänen und die Klassifikationssysteme individuelle Zugriffsrechte vergeben werden können.
