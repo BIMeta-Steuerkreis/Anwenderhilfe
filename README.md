@@ -12,9 +12,11 @@ Allen am Bauprozess Beteiligten steht die gemeinsam abgestimmte, eindeutige und 
 #### Welche Vorteile bringt BIMeta?
 Sobald ich mein Klassifikationssystem gegen BIMeta gemappt habe, kann ich mein Klassifikationssystem in alle in BIMeta hinterlegten Klassifikationssysteme übersetzen.
 <br>
+
 #### Warum heißt es BIMeta?
 Der Name BIMeta wurde gewählt, da in BIMeta Metadaten verwaltet werden und keine Daten [Unterschied zwischen Daten und Metadaten]().
 <br>
+
 [Terminologie](Terminologie.md)
 
 [Struktur](Struktur.md)
