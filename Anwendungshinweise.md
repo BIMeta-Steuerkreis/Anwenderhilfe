@@ -4,8 +4,6 @@
 {:toc}
 
 ## Wie logge ich mich ein?
-  
-[Wie logge ich mich ein?](https://www.iorad.com/player/1822718/Wie-melde-ich-mich-an)
 
 1. Öffnen Sie [https://server.bimeta.de](https://server.bimeta.de/).
 2. Gehen Sie auf Anmelden.
@@ -62,7 +60,10 @@ Mit Microsoft Account anmelden:
 <br>
 
 ## Wie erfasse ich ein Merkmal?
-  
+1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
+2. Fügen Sie mittels des Zeichens "Plus" (Über den vorhandenen Merkmalen) ein neues Merkmal hinzu.
+3. Öffnen Sie **neues Merkmal**, welches in der Merkmalsliste hinzugefügt wurde.
+4. Füllen Sie die gewünschten Felder aus:
 <br>
   
 [Beispiel Erfassen eines Merkmals](https://www.iorad.com/player/1815762/Erfassen-eines-Merkmals)
@@ -72,8 +73,8 @@ Mit Microsoft Account anmelden:
 
 
 ## Wie erfasse ich eine Klasse?
-1. Herausgeber, Domäne und Klassifikationssystem wählen
-2. Mittels des Zeichens "Plus" (Über den vorhandenen Klassen) eine neue Klasse hinzufügen
+1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
+2. Fügen Sie mittels des Zeichens "Plus" (Über den vorhandenen Klassen) eine neue Klasse hinzu.
 3. Felder ausfüllen:
       - Info
         - Identifikator der Klasse
