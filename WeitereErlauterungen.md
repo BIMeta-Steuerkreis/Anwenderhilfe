@@ -6,7 +6,9 @@
 Bei dem Begriff Daten denken die meisten an die Anwendungsdaten. Bei Metadaten wird durch die Vorsilbe Meta klar, dass es sich um etwas handelt, was diesen Anwendungsdaten übergeordnet ist. Metadaten bezeichnet Daten, welche die Struktur der Anwendnungsdaten beschreibt.
 Der Unterschied zwischen Daten und Metadaten ist immer abhängig vom Standpunkt des Betrachters.
 Im Fall BIMeta wird der Unterschied zwischen Daten und Metadaten an einem Bespiel klar. In einer Merkmalsliste einer Tür steht folgendes:
+<br>
 Farbe = braun
+<br>
 Hier ist "braun" der Datenwert und "Farbe" der Metadatenwert.
 
 ## Unterschied von Maßen und Einheiten
