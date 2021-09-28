@@ -63,7 +63,9 @@ Mit Microsoft Account anmelden:
 1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
 2. Fügen Sie mittels ![Plus-Symbol](Bilder/Plus-Symbol.png) (Über den vorhandenen Merkmalen) ein neues Merkmal hinzu.
 3. Öffnen Sie **neues Merkmal**, welches in der Merkmalsliste hinzugefügt wurde.
-4. Füllen Sie die gewünschten Felder aus:
+4. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier]().
+5. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Merkmalsfenster bestätigen.
+6. 
 <br>
   
 [Beispiel Erfassen eines Merkmals](https://www.iorad.com/player/1815762/Erfassen-eines-Merkmals)
@@ -74,8 +76,9 @@ Mit Microsoft Account anmelden:
 
 ## Wie erfasse ich eine Klasse?
 1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
-2. Fügen Sie mittels des Zeichens "Plus" (Über den vorhandenen Klassen) eine neue Klasse hinzu.
-3. Felder ausfüllen:
+2. Fügen Sie mittels ![Plus-Symbol](Bilder/Plus-Symbol.png) (Über den vorhandenen Klassen) eine neue Klasse hinzu.
+3. Wählen Sie **neue Klasse**, welche im Klassenbaum hinzugefügt wurde.
+4. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier]().
       - Info
         - Identifikator der Klasse
       - DE
@@ -113,9 +116,19 @@ Mit Microsoft Account anmelden:
           - Benutzername
       - Mappings
       - Merkmale
-4. Mit dem "Häkchen" rechts über dem Klassenfenster bestätigen.
-5. Die neue Klasse erscheint im KLassifikationssystembaum und kann ggf. auch geändert werden.
-6. Nun können Merkmale hinzugefügt werden oder Subklassen erstellt werden.
+5. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Klassenfenster bestätigen.
+6. Die neue Klasse erscheint im Klassifikationssystembaum und kann ggf. geändert werden.
+7. Nun können Merkmale hinzugefügt werden oder Subklassen erstellt werden.
    - Merkmale hinzufügen [Link zu diesen Hinweis]
    - Subklassen erstellen [Link zu diesem Hinweis]
 <br>
+
+## Wie erfasse ich eine Subklasse?
+1. Wählen Sie Ihre Übergeordnete Klasse aus.
+2. Rechts neben der Klasse erscheint ein Plus, über welches Sie durch einen Klick die Subklasse hinzufügen können.
+![HinzufügenSubklasse](Bilder/HinzufuegenSubklasse.png)
+3. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier]().
+   Sie können unter Info die Übergeordnete Klasse finden.
+4. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Klassenfenster bestätigen.
+5. Im Klassenbaum können Sie nun die übergeordnete Klasse aufklappen und sehen die Subklasse.
+   
