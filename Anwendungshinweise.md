@@ -61,7 +61,7 @@ Mit Microsoft Account anmelden:
 
 ## Wie erfasse ich ein Merkmal?
 1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
-2. Fügen Sie mittels des Zeichens "Plus" (Über den vorhandenen Merkmalen) ein neues Merkmal hinzu.
+2. Fügen Sie mittels des Zeichens ![Plus-Symbol](Anwenderhilfe/Bilder/Plus-Symbol.png) "Plus" (Über den vorhandenen Merkmalen) ein neues Merkmal hinzu.
 3. Öffnen Sie **neues Merkmal**, welches in der Merkmalsliste hinzugefügt wurde.
 4. Füllen Sie die gewünschten Felder aus:
 <br>
