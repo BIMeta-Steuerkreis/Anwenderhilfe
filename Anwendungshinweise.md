@@ -78,43 +78,6 @@ Mit Microsoft Account anmelden:
 2. Fügen Sie mittels ![Plus-Symbol](Bilder/Plus-Symbol.png) (Über den vorhandenen Klassen) eine neue Klasse hinzu.
 3. Wählen Sie **neue Klasse**, welche im Klassenbaum hinzugefügt wurde.
 4. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier]().
-      - Info
-        - Identifikator der Klasse
-      - DE
-          - Klassenname DE
-          - Definition der Klasse DE
-          - Bemerkung DE, Beispiele DE
-          - Synonyme DE
-      - EN --> Dadurch wird eine Übersetzung in der Klasse automatisch mit hinterlegt und es muss keine neue Klasse eingefügt werden.
-          - Klassennamen EN
-          - Definition der Klasse EN
-          - Bemerkung EN, Beispiele EN
-          - Synonyme EN
-      - Workflow
-          - Status
-              - Abgekündigt
-              - Änderung angefragt
-              - Angefragt
-              - Erfasst
-              - Freigabe Katalogausschuss beantragt
-              - Geprüft
-              - Nicht übersetzt
-              - Obsolet
-              - Publiziert
-              - Übersetzt
-              - Übersetzung geprüft
-          - Veröffentlicht mit Version [es kann kein Wert eingetragen werden]
-          - Unveröffentlicht mit Version [es kann kein Wert eingetragen werden]
-          - Letzte Änderung
-      - Änderungsprotokoll [wird das automatisch erstellt?]
-          - Typ
-          - Aktualisierungsdatum
-          - Feldname
-          - Alter Wert
-          - Neuer Wert
-          - Benutzername
-      - Mappings
-      - Merkmale
 5. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Klassenfenster bestätigen.
 6. Die neue Klasse erscheint im Klassifikationssystembaum und kann ggf. geändert werden.
 7. Nun können Merkmale hinzugefügt werden oder Subklassen erstellt werden.
@@ -136,34 +99,49 @@ Mit Microsoft Account anmelden:
 ## Was bedeuten die einzelnen Eingabefelder?
 ### Klassenerstellung
 #### Reiter Info
-Feld|Bedeutung|Vordefinierter Wert|Bedeutung
-----|---------|-------------------|---------
-Identifikator der Klasse| | |
-Guid (RFC4122)| | |
-Guid (IFC Kurzformat)| | |
-Klassifikationssystem| | |
-Übergeordnete Klasse| | | 
+Feld|Bedeutung
+----|---------
+Identifikator der Klasse|
+Guid (RFC4122)|
+Guid (IFC Kurzformat)|
+Klassifikationssystem|
+Übergeordnete Klasse|  
 
 #### Reiter DE und EN
-Feld|Bedeutung|Vordefinierter Wert|Bedeutung
-----|---------|-------------------|---------
-Klassenname| | |
-Definition der Klasse| | |
-Bemerkung| | |
-Beispiele| | |
-Synonyme| | | 
+Durch die Eingaben in den Reitern DE und EN wird automatisch eine Übersetzung mit abgespeichert und es muss keine weitere Klasse eingefügt werden.
+
+Feld|Bedeutung
+----|---------
+Klassenname|
+Definition der Klasse|
+Bemerkung|
+Beispiele|
+Synonyme|
 
 #### Reiter Workflow
-Feld|Bedeutung|Vordefinierter Wert|Bedeutung
-----|---------|-------------------|---------
-Status| | |
-Veröffentlicht mit Version| | |
-Unveröffentlicht mit Version| | |
-Letzte Änderung| | |
+Feld|Bedeutung
+----|---------
+Status|
+Veröffentlicht mit Version|
+Unveröffentlicht mit Version|
+Letzte Änderung|
+
+Status Möglichkeiten:
+- Abgekündigt
+- Änderung angefragt
+- Angefragt
+- Erfasst
+- Freigabe Katalogausschuss beantragt
+- Geprüft
+- Nicht übersetzt
+- Obsolet
+- Publiziert
+- Übersetzt
+- Übersetzung geprüft
 
 #### Reiter Änderungsprotokoll
 In diesem Reiter wird das Änderungsprotokoll angezeigt.
-Dort finden Sie die jeweiligen Änderungen, sowie das Datum der Änderung und welcher Benutzer die Änderung vorgenommen hat.
+Dort finden Sie den Typ, das Aktualisierungsdatum, den Feldnamen, den alten Wert, den neuen Wert und den Benutzername, welcher die Änderungen durchgeführt hat.
 
 #### Reiter Mappings
 
