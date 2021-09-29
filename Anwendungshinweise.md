@@ -62,10 +62,9 @@ Mit Microsoft Account anmelden:
 ## Wie erfasse ich ein Merkmal?
 1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
 2. Fügen Sie mittels ![Plus-Symbol](Bilder/Plus-Symbol.png) (Über den vorhandenen Merkmalen) ein neues Merkmal hinzu.
-3. Öffnen Sie **neues Merkmal**, welches in der Merkmalsliste hinzugefügt wurde über ![AufklappenMerkmal](Bilder/AufklappenMerkmal.png)
+3. Öffnen Sie über ![AufklappenMerkmal](Bilder/AufklappenMerkmal.png) **neues Merkmal**, welches in der Merkmalsliste hinzugefügt wurde.
 4. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier]().
 5. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Merkmalsfenster bestätigen.
-6. 
 <br>
   
 [Beispiel Erfassen eines Merkmals](https://www.iorad.com/player/1815762/Erfassen-eines-Merkmals)
@@ -120,7 +119,9 @@ Mit Microsoft Account anmelden:
 6. Die neue Klasse erscheint im Klassifikationssystembaum und kann ggf. geändert werden.
 7. Nun können Merkmale hinzugefügt werden oder Subklassen erstellt werden.
    - Merkmale hinzufügen [Link zu diesen Hinweis]
-   - Subklassen erstellen [Link zu diesem Hinweis]
+   - [Subklasse erstellen](./Anwendungshinweise.md#Wie-erfasse-ich-eine-Subklasse-?)
+   
+ ([Unterschied zwischen Daten und Metadaten](./WeitereErlauterungen.md#Unterschied-von-Daten-und-Metadaten))
 <br>
 
 ## Wie erfasse ich eine Subklasse?
@@ -131,4 +132,45 @@ Mit Microsoft Account anmelden:
    Sie können unter Info die Übergeordnete Klasse finden.
 4. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Klassenfenster bestätigen.
 5. Im Klassenbaum können Sie nun die übergeordnete Klasse aufklappen und sehen die Subklasse.
+
+
+## Was bedeuten die einzelnen Eingabefelder?
+### Klassenerstellung
+#### Reiter Info
+Feld|Bedeutung|Vordefinierter Wert|Bedeutung
+----|---------|-------------------|---------
+Identifikator der Klasse| | |
+Guid (RFC4122)| | |
+Guid (IFC Kurzformat)| | |
+Klassifikationssystem| | |
+Übergeordnete Klasse| | | 
+
+#### Reiter DE und EN
+Feld|Bedeutung|Vordefinierter Wert|Bedeutung
+----|---------|-------------------|---------
+Klassenname| | |
+Definition der Klasse| | |
+Bemerkung| | |
+Beispiele| | |
+Synonyme| | | 
+
+#### Reiter Workflow
+Feld|Bedeutung|Vordefinierter Wert|Bedeutung
+----|---------|-------------------|---------
+Status| | |
+Veröffentlicht mit Version| | |
+Unveröffentlicht mit Version| | |
+Letzte Änderung| | |
+
+#### Reiter Änderungsprotokoll
+In diesem Reiter wird das Änderungsprotokoll angezeigt.
+Dort finden Sie die jeweiligen Änderungen, sowie das Datum der Änderung und welcher Benutzer die Änderung vorgenommen hat.
+
+#### Reiter Mappings
+
+#### Reiter Merkmale
+
+
+### Merkmalserstellung
+
    
