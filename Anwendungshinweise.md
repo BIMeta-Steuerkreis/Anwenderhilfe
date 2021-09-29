@@ -119,9 +119,8 @@ Mit Microsoft Account anmelden:
 6. Die neue Klasse erscheint im Klassifikationssystembaum und kann ggf. geändert werden.
 7. Nun können Merkmale hinzugefügt werden oder Subklassen erstellt werden.
    - Merkmale hinzufügen [Link zu diesen Hinweis]
-   - [Subklasse erstellen](./Anwendungshinweise.md#Wie-erfasse-ich-eine-Subklasse-?)
+   - [Subklasse erstellen](#wie-erfasse-ich-eine-subklasse)
    
- ([Unterschied zwischen Daten und Metadaten](./WeitereErlauterungen.md#Unterschied-von-Daten-und-Metadaten))
 <br>
 
 ## Wie erfasse ich eine Subklasse?
