@@ -90,8 +90,7 @@ Mit Microsoft Account anmelden:
 1. Wählen Sie Ihre Übergeordnete Klasse aus.
 2. Rechts neben der Klasse erscheint ein Plus, über welches Sie durch einen Klick die Subklasse hinzufügen können.<br>
 ![HinzufügenSubklasse](Bilder/HinzufuegenSubklasse.png)
-3. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier]().
-   Sie können unter Info die Übergeordnete Klasse finden.
+3. Füllen Sie die gewünschten Felder aus. Eine Erklärung aller Felder finden Sie [hier](). <br> Sie können im Reiter Info die Übergeordnete Klasse finden.
 4. Mit ![Bestaetigung](Bilder/Bestaetigung.png) rechts über dem Klassenfenster bestätigen.
 5. Im Klassenbaum können Sie nun die übergeordnete Klasse aufklappen und sehen die Subklasse.
 
