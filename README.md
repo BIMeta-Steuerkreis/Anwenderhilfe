@@ -2,7 +2,7 @@
 
 [Was ist BIMeta?](WasistBIMeta.md)
 
-[Erste Schritte](ErsteSchritte.md)
+[Erste Schritte](ErsteSchritte/ErsteSchritte.md)
 
 [Anleitungen und Erklärungen](Anleitungen/Anleitungen.md)
 
