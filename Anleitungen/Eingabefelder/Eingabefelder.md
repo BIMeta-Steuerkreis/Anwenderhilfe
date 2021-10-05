@@ -5,3 +5,5 @@
 [Eingabefelder bei der Erstellung eines Merkmals](FelderMerkmal.md)
 
 [Eingabefelder bei der Erstellung eines Mappings](FelderMapping.md)
+
+[ZURÜCK](/Anleitungen/Anleitungen.md)
