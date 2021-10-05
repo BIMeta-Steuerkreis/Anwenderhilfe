@@ -1,8 +1,8 @@
 # Benutzeroberfläche
 Im folgenden werden die Benutzeroberflächen erläutert.
 
-[Erstellung einer Klasse](ErsteSchritte/UI/UIKlasse.md)
+[Erstellung einer Klasse](UIKlasse.md)
 
-[Erstellung eines Merkmals](ErsteSchritte/UI/UIMerkmal.md)
+[Erstellung eines Merkmals](UIMerkmal.md)
 
-[Erstellen eines Mappings](ErsteSchritte/UI/UIMapping.md)
+[Erstellen eines Mappings](UIMapping.md)
