@@ -30,3 +30,5 @@ BIMeta versioniert nach der [Semantische Versionierung](https://semver.org/).
 **Patch**: Beseitigung eines Tippfehlers, einer (Sprachlichen) Korrektur in der Definition oder in den Beispielen oder das Hinzufügen eines neuen Beispiels
    - Bedeutung ändert sich in keiner Weise
    - Kein Grund das Merkmal abzukündigen, Verbesserung im laufenden Betrieb
+
+[ZURÜCK](Anleitungen.md)
