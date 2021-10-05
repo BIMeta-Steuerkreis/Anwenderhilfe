@@ -2,7 +2,7 @@
 
 [Konzepte](Konzepte.md)
 
-[Was bedeuten die einzelnen Eingabefelder?](Eingabefelder.md)
+[Was bedeuten die einzelnen Eingabefelder?](Eingabefelder/Eingabefelder.md)
 
 [Weiterführende Erklärungen](WeitereErklauterungen.md)
 
