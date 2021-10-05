@@ -4,6 +4,6 @@
 
 [Was bedeuten die einzelnen Eingabefelder?](Eingabefelder/Eingabefelder.md)
 
-[Weiterführende Erklärungen](WeitereErklauterungen.md)
+[Weiterführende Erklärungen](WeitereErlauterungen.md)
 
 [ZURÜCK](/README.md)
