@@ -4,6 +4,6 @@
 
 [Erste Schritte](ErsteSchritte.md)
 
-[Anleitungen und Erklärungen](Anleitungen.md)
+[Anleitungen und Erklärungen](Anleitungen/Anleitungen.md)
 
 [Terminologie und Struktur von BIMeta](Terminologie.md)
