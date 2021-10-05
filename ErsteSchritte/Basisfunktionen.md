@@ -2,4 +2,4 @@
 
 
 
-[ZURÜCK](/ErsteSchritte/ErsteSchritte.md)
+[ZURÜCK](/Anwenderhilfe/ErsteSchritte/ErsteSchritte.md)
