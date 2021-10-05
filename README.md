@@ -1,6 +1,6 @@
 ## Willkommen auf der BIMeta Online Dokumentation
 
-[Was ist BIMeta?](Allgemeines.md)
+[Was ist BIMeta?](WasistBIMeta.md)
 
 [Erste Schritte](ErsteSchritte.md)
 
