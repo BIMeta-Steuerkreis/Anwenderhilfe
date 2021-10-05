@@ -6,3 +6,6 @@ Im folgenden werden die Benutzeroberflächen erläutert.
 [Erstellung eines Merkmals](UIMerkmal.md)
 
 [Erstellen eines Mappings](UIMapping.md)
+
+
+[ZURÜCK](/ErsteSchritte/ErsteSchritte.md)
