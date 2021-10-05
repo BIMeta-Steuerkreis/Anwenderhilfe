@@ -1,13 +1,9 @@
 ## Willkommen auf der BIMeta Online Dokumentation
 
-[Allgemeines zu BIMeta](Allgemeines.md)
+[Was ist BIMeta?](Allgemeines.md)
 
-[Terminologie](Terminologie.md)
+[Erste Schritte](ErsteSchritte.md)
 
-[Struktur](Struktur.md)
+[Anleitungen und Erklärungen](Anleitungen.md)
 
-[Konzepte](Konzepte.md)
-
-[Anwendungshinweise](Anwendungshinweise.md)
-
-[Weiterführende Erläuterungen](WeitereErlauterungen.md)
+[Terminologie und Struktur von BIMeta](Terminologie.md)
