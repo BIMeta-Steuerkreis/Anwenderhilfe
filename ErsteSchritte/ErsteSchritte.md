@@ -1,5 +1,5 @@
 # Erste Schritte
 
-[Basisfunktionen](ErsteSchritte/Basisfunktionen.md)
+[Basisfunktionen](Basisfunktionen.md)
 
-[Benutzeroberfläche](ErsteSchritte/UI.md)
+[Benutzeroberfläche](UI/UI.md)
