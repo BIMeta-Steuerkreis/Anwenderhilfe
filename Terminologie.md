@@ -1,4 +1,4 @@
-[ZURÜCK](Readme.md)
+[ZURÜCK](README.md)
 
 * TOC
 {:toc}
@@ -73,4 +73,4 @@ Es ist Möglich vererbbare Merkmale zu erstellen. Diese werden von einer Hauptkl
 
 Pro Merkmal kann ein deutscher und ein englischer Definitionstext eingetragen werden, wobei die Heimatsprache hinterlegt wird.
 
-[ZURÜCK](Readme.md)
+[ZURÜCK](README.md)
