@@ -8,5 +8,4 @@ Im folgenden werden die Benutzeroberflächen erläutert.
 [Erstellen eines Mappings](UIMapping.md)
 
 
-[ZURÜCK](/ErsteSchritte.md)
-[ZURÜCK](/ErsteSchritte.md)
+[ZURÜCK](/ErsteSchritte/ErsteSchritte.md)
