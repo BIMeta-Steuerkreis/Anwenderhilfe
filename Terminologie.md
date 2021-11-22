@@ -1,3 +1,4 @@
+[ZURÜCK](Readme.md)
 
 * TOC
 {:toc}
@@ -71,3 +72,5 @@ Merkmale werden versioniert. Die Versionen der Merkmale werden nach dem Prinzip 
 Es ist Möglich vererbbare Merkmale zu erstellen. Diese werden von einer Hauptklasse an die Subklassen vererbt.
 
 Pro Merkmal kann ein deutscher und ein englischer Definitionstext eingetragen werden, wobei die Heimatsprache hinterlegt wird.
+
+[ZURÜCK](Readme.md)
