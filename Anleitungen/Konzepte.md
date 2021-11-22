@@ -1,4 +1,4 @@
-[ZURÜCK](/Anleitungen/Anleitungen.md)
+[ZURÜCK](Anleitungen.md)
 
 ## Konzepte von BIMeta
 * TOC
@@ -21,4 +21,4 @@ Wie ist das Konzept für das Verbinden/ Mappen von Klassifikationssystemen?
 Welche Strukturen sind für die multilinguale Nutzung vorhanden?
 
 
-[ZURÜCK](/Anleitungen/Anleitungen.md)
+[ZURÜCK](Anleitungen.md)
