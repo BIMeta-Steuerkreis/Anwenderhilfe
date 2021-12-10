@@ -1,5 +1,5 @@
 # Erste Schritte
-Auf den folgenden Seiten werden die ersten Schritte in der Benutzung der Webseite erklärt sowie die Benutzeroberfläche.
+Auf den folgenden Seiten werden die ersten Schritte auf der Webseite sowie die Benutzeroberfläche erklärt.
 
 [Basisfunktionen](Basisfunktionen.md)
 
