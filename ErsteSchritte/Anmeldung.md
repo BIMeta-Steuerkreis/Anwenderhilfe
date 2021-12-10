@@ -1,5 +1,8 @@
 # Anmelden und Einloggen
 
+* TOC
+{:toc}
+
 ## Wie logge ich mich ein?
 1. Öffnen Sie [https://server.bimeta.de](https://server.bimeta.de/).
 2. Gehen Sie auf Anmelden.
@@ -30,5 +33,9 @@
    - Ihren Nachnamen
    - Ihre Firma
 5. Bestätigen Sie Ihre Eingabe mit **SIGN UP**
+
+## Wie sehe ich meine Benutzerrechte ein?
+Über [Mein Profil]https://bimeta-test-client.azurewebsites.net/user/profile) können Sie Ihre Daten (Name, Vorname und E-Mail-Adresse) einsehen sowie auch Ihre Benutzerrechte.
+Hier sind alle Rechtegruppen mit den jeweiligen Herausgebern, Domänen und Klassifikationsystemen sowie die dazugehörigen Rechte für Lesen, Schreiben, Bestätigen und Mapping aufgeführt.
 
 [ZURÜCK](ErsteSchritte.md)
