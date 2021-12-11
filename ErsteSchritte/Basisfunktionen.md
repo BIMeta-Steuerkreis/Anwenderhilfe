@@ -21,7 +21,7 @@ Bild
 
 ## Wie erstelle ich eine Klasse?
 1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
-3. Fügen Sie mittels ![Plus-Symbol](/Bilder/plus-symbol.png) (Über den vorhandenen Klassen) eine neue Klasse hinzu.
+3. Fügen Sie mittels ![Plus-Symbol](/Bilder/Plus-Symbol.png) (Über den vorhandenen Klassen) eine neue Klasse hinzu.
 4. Geben Sie die gewünschten Informationen in den Klassenbereich ein. Eine Erklärung aller Felder finden Sie [hier]().
 5. Mit ![Bestaetigung](/Bilder/Bestaetigung.png) rechts über dem Klassenbereich bestätigen.
 6. Die neue Klasse erscheint im Klassifikationssystembaum und kann ggf. geändert werden.
