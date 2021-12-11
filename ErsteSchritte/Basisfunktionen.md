@@ -12,7 +12,7 @@ Voraussetzung dafür sind vorhandene [Benutzerrechte]().
 
 Wählen Sie einen Herausgeber. <br />
 Wählen Sie eine Domäne. <br />
-Wählen Sie ein Klassifikationssystem.
+Wählen Sie ein Klassifikationssystem.<br />
 
 
 Im Anschluss wird Ihnen das gewünschte Klassifikationssystem präsentiert.
