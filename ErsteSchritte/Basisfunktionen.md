@@ -5,18 +5,20 @@ Auf der Seite werden die Basisfunktionen von BIMeta vorgestellt. Weitere Anwendu
 {:toc}
 
 ## Wie wähle ich eine Klasse aus?
-  Um das gewünschte Klassifikationssystem verwalten oder einsehen zu können, müssen Sie zuerst einen Herausgeber, eine Domäne und ein Klassifikationssystem wählen.
-  Voraussetzung dafür sind vorhandene [Benutzerrechte]().
+Um das gewünschte Klassifikationssystem verwalten oder einsehen zu können, müssen Sie zuerst einen Herausgeber, eine Domäne und ein Klassifikationssystem wählen.
+Voraussetzung dafür sind vorhandene [Benutzerrechte]().
 
-  <Bild>
+<Bild>
 
-  Wählen Sie einen Herausgeber. <br>
-  Wählen Sie eine Domäne. <br>
-  Wählen SIe ein Klassifikationssystem.
+Wählen Sie einen Herausgeber. <br />
+Wählen Sie eine Domäne. <br />
+Wählen Sie ein Klassifikationssystem.
+
+
+Im Anschluss wird Ihnen das gewünschte Klassifikationssystem präsentiert.
+
+<Bild>
   
-  Im Anschluss wird Ihnen das gewünschte Klassifikationssystem präsentiert.
-  
-  <Bild>
 
 ## Wie erstelle ich eine Klasse?
   1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
