@@ -21,5 +21,14 @@ Beim Mapping wird unterschieden in das Mappen von verschiedenen Klassifikationss
 ### Multilingual
 Damit die Klassifikationssysteme nicht für jede Sprache extra angelegt werden müssen, gibt es die Möglichkeit sowohl in Deutsch als auch in Englisch die Basisdaten der Klassen oder Merkmale zu hinterlegen. 
 
+### Enumerations
+In BIMeta gibt es die Möglichkeit Enumerations zu definieren. Dies sind Merkmale mit fest vorgegeben Auswahlwerten.
+Zum Beispiel besitzt eine Tür das Merkmal "Anschlag". Da hier nur die Werte "rechts" oder "links" zur Auswahl stehen soll, wird bei diesem Merkmal diese 2 Werte fest vorgegeben.
+Dadurch hat man später bei der Eingabe der Daten kein Textfeld, sondern nur dur Auswahl zwischen "rechts" und "links".
+
+### Vererbung von Merkmalen
+BIMeta gibt die Möglichkeit Merkmale zu vererben. Durch die Zuweisung eines vererbbaren Merkmals zu einer Klasse, erhalten alle untergeordneten Klassen (Subklassen) auch dieses Merkmal.
+
+Erhält die Klasse "Tür" das vererbbare Merkmal "Anschlag", so erhält die untergeordnete Klasse "Brandschutztür" automatisch auch dieses Merkmal.
 
 [ZURÜCK](Anleitungen.md)
