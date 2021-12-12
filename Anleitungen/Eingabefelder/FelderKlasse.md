@@ -31,18 +31,22 @@ Veröffentlicht mit Version|
 Unveröffentlicht mit Version|
 Letzte Änderung|
 
-Status Möglichkeiten:
-- Abgekündigt
-- Änderung angefragt
-- Angefragt
-- Erfasst
-- Freigabe Katalogausschuss beantragt
-- Geprüft
-- Nicht übersetzt
-- Obsolet
-- Publiziert
-- Übersetzt
-- Übersetzung geprüft
+<details>
+  <summary>Bitte aufklappen für die vorhandenen Status Möglichkeiten</summary>
+  
+  - Abgekündigt
+  - Änderung angefragt
+  - Angefragt
+  - Erfasst
+  - Freigabe Katalogausschuss beantragt
+  - Geprüft
+  - Nicht übersetzt
+  - Obsolet
+  - Publiziert
+  - Übersetzt
+  - Übersetzung geprüft
+  
+  </details>
 
 ## Reiter Änderungsprotokoll
 In diesem Reiter wird das Änderungsprotokoll angezeigt.
