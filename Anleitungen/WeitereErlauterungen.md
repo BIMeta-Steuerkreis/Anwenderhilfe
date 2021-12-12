@@ -15,7 +15,15 @@ Farbe = braun
 Hier ist "braun" der Datenwert und "Farbe" der Metadatenwert.
 
 ## Unterschied von Maßen und Einheiten
+Das Maß ist genauer gesagt die Maßeinheit. Sie beschreibt die physikalische Einheit wie Längen- , Volumen-, Massen- und Zeiteinheit.
 
+Die Einheit gibt die Größe des jeweiligen Maßes an. Hier gehören die SI-Einheiten dazu wie z.B. Sekunde s, Kilogramm kg und Meter m.
+
+In einem Beispiel wird dies schnell klar. <br>
+Für die Breite einer Tür bedeutet dies:
+
+Maß: Längeneinheit <br>
+Einheit: Zentimeter
 
 ## Semantische Versionierung
 
