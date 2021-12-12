@@ -25,6 +25,8 @@ Für die Breite einer Tür bedeutet dies:
 Maß: Längeneinheit <br>
 Einheit: Zentimeter
 
+Maße und Einheiten werden zentral in BIMeta vorgegeben für alle Systeme.
+
 ## Semantische Versionierung
 
 BIMeta versioniert nach der [Semantische Versionierung](https://semver.org/).
