@@ -49,6 +49,8 @@ Sollte sich nach dem 2. Schritt der Klassenbaum neu geladen haben, weil Sie z.B.
 <br>
     
 ## Wie weise ich ein Merkmal einer Klasse zu?
+1. Wählen Sie zuerst den Herausgeber, die Domäne und das Klassifikationssystem.
+2. 
 
 ## Wie lege ich ein Mapping an?
 
