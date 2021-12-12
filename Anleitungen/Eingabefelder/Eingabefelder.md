@@ -1,4 +1,5 @@
 # Was bedeuten die einzelnen Eingabefelder?
+Auf den folgenden Seiten werden die Eingabefelder sowie die Auswahlmöglichkeiten erklärt. 
 
 [Eingabefelder bei der Erstellung einer Klasse](FelderKlasse.md)
 
