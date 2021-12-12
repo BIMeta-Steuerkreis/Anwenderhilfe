@@ -1,34 +1,35 @@
 # Eingabefelder bei der Erstellung eines Mappings
 Es können folgende Beziehungstypen ausgewählt werden:
 
-- **is subtype of** - ist ein Subtyp (Unterart) von
+- **is subtype of** - ist ein Subtyp (Unterart) von <br>
+  Der Mapping-Start ist ein ein Teil von dem Mapping-Ziel.
   
+- **are identical** - sind identisch <br>
+  Mapping-Start und Mapping-Ziel sind identisch und tragen den selben Namen.
   
-- **are identical** - sind identisch
+- **is supertype of** - ist ein Supertyp (Oberart) von <br>
+  Der Mapping-Start enthält das Mapping-Ziel.
   
+- **is reference of** - ist eine Referenz von <br>
+  Mapping-Start und Mapping-Ziel sind identisch, tragen aber nicht den selben Namen.
   
-- **is supertype of** - ist ein Supertyp (Oberart) von
-
+- **are Synonyms** - sind Synonyme <br>
+  Mapping-Start und Mapping-Ziel sind ähnlich und können in einem bestimmten Kontext ausgetauscht werden.
   
-- **is reference of** - ist eine Referenz von
+- **is replaced by** - wird ersetzt durch <br>
+  Der Mapping-Start ersetzt das Mappping-Ziel
 
-  
-- **are Synonyms** - sind Synonyme
+- **are Connected** - sind verbunden <br>
+  Der Mapping-Start ist mit dem Mapping-Ziel verbunden.
 
-  
-- **is replaced by** - wird ersetzt durch
+- **is subpart of** - ist ein Subteil (Unterteil) von <br>
+  Der Mapping-Start ist ein Teil von dem Mapping-Ziel.
 
+- **ist part of group** - ist ein Teil der Gruppe <br>
+  Der Mapping-Start ist ein Teil der Gruppe von dem Mapping-Ziel.
 
-- **are Connected** - sind verbunden
-
-
-- **is subpart of** - ist ein Subteil (Unterteil) von
-
-
-- **ist part of group** - ist ein Teil der Gruppe
-
-
-- **is superpart of** - ist ein Superteil von
+- **is superpart of** - ist ein Superteil von <br>
+  Der Mapping-Start enthält das Mapping-Ziel.
   
 
 [ZURÜCK](Eingabefelder.md)
