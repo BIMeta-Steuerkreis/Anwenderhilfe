@@ -1,4 +1,4 @@
-[ZURÜCK](README.md)
+[ZURÜCK](https://bimeta-steuerkreis.github.io/Anwenderhilfe/)
 
 * TOC
 {:toc}
@@ -18,4 +18,4 @@ Sobald ich mein Klassifikationssystem gegen BIMeta gemappt habe, kann ich mein K
 Der Name BIMeta wurde gewählt, da in BIMeta Metadaten verwaltet werden und keine Daten ([Unterschied zwischen Daten und Metadaten](./WeitereErlauterungen.md#Unterschied-von-Daten-und-Metadaten)).
 
 
-[ZURÜCK](README.md)
+[ZURÜCK](https://bimeta-steuerkreis.github.io/Anwenderhilfe/)
