@@ -13,7 +13,7 @@ Allen am Bauprozess Beteiligten steht die gemeinsam abgestimmte, eindeutige und 
 Sobald ich mein Klassifikationssystem gegen BIMeta gemappt habe, kann ich mein Klassifikationssystem in alle in BIMeta hinterlegten Klassifikationssysteme übersetzen.
 
 # Warum heißt es BIMeta?
-Der Name BIMeta wurde gewählt, da in BIMeta Metadaten verwaltet werden und keine Daten ([Unterschied zwischen Daten und Metadaten](./WeitereErlauterungen.md#Unterschied-von-Daten-und-Metadaten)).
+Der Name BIMeta wurde gewählt, da in BIMeta Metadaten verwaltet werden und keine Daten ([Unterschied zwischen Daten und Metadaten](3.3_weitereErlaeuterungen.md#Unterschied-von-Daten-und-Metadaten)).
 
 
 [ZURÜCK](https://bimeta-steuerkreis.github.io/Anwenderhilfe/)
