@@ -1,5 +1,3 @@
-[ZURÜCK](https://bimeta-steuerkreis.github.io/Anwenderhilfe/)
-
 * TOC
 {:toc}
 
