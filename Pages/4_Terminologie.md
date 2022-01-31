@@ -5,13 +5,16 @@
 
 # Struktur
 
+![Struktur von BIMeta](../Bilder/Struktur.png)
+
+BIMeta ist in 5 Stufen aufgebaut. Die ersten 3 Stufen (Herausgeber, Domäne und Klassifikationssystem) dienen der Organisation der Benutzer- und Zugriffsrechte. Jedes Element einer Stufe kann unendlich viele Elemente der Unterstufe besitzen (Ein Herausgeber kann unendlich viele Domänen besitzen, eine Domäne kann unendlich viele Klassifikationssysteme besitzen, ...).
 
 
 # Terminologie
 
 ## Publisher - Herausgeber
 
-Ein Herausgeber ist eine Organisation, welche Digitale Standards mit dem Schwerpunkt der BIM-Methodik für ihr Klientel bzw. ihre Mitglieder veröffentlichen möchte. Er kann die Inhalte selbstständig, frei und im eigenen Namen veröffentlichen. Er ist nicht gezwungen diese Standards mit anderen Herausgebern abzustimmen. Er kann die Inhalte zu anderen Herausgebern mappen.
+Ein Herausgeber ist eine Organisation, welche digitale Standards mit dem Schwerpunkt der BIM-Methodik für ihr Klientel bzw. ihre Mitglieder veröffentlichen möchte. Er kann die Inhalte selbstständig, frei und im eigenen Namen veröffentlichen. Er ist nicht gezwungen diese Standards mit anderen Herausgebern abzustimmen. Er kann die Inhalte zu anderen Herausgebern mappen.
 Die Standards werden in Domänen strukturiert.
 Der Content (z.B. mehrere Domänen und Klassifikationssysteme), der von einem Herausgeber erzeugt und veröffentlicht wird, muss innerhalb des Herausgebers eineindeutig und widerspruchsfrei sein.
 
@@ -53,7 +56,7 @@ Flächentypen (BuildingTypes) | GEFMA 924-10
 Raumnutzungsarten (SpaceTypes) | Din 277, ISO 81346
 Dokumententypen (DocumentTypes) | 
 Lebenszyklusphasen (LifeCyclePhases) | 
-Produkttypen (ProductType) ??? | 
+Produkttypen (ProductType) | 
 
 Klassifikationssysteme dürfen nur aufeinander gemappt werden, wenn diese demselben Klassifikationssystemtypen angehören.
 
@@ -67,7 +70,7 @@ Klasse haben Properties (Merkmale).
 In BIMeta werden in der Merkmalstabelle nicht die Daten, sondern die Metadaten ([Unterschied zwischen Daten und Metadaten](3.3_WeitereErlaeuterungen.md#unterschied-von-daten-und-metadaten) verwaltet. Diese Tabelle ist nach der DIN EN ISO 23386 strukturiert und ermöglicht dadurch den Austausch und die Kommunikation mit anderen Systemen.
 In der Merkmalstabelle werden die Merkmale der Merkmale verwaltet, die in den jeweiligen Klassifikationssystemen benutzt werden sollen. 
 Merkmale werden versioniert. Die Versionen der Merkmale werden nach dem Prinzip der [Semantischen Versionierung](3.3_WeitereErlaeuterungen.md#semantische-versionierung) nummeriert.
-Es ist Möglich vererbbare Merkmale zu erstellen. Diese werden von einer Hauptklasse an die Subklassen vererbt.
+Es ist möglich vererbbare Merkmale zu erstellen. Diese werden von einer Hauptklasse an die Subklassen vererbt.
 
 Pro Merkmal kann ein deutscher und ein englischer Definitionstext eingetragen werden, wobei die Heimatsprache hinterlegt wird.
 
